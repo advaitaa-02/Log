@@ -64,8 +64,7 @@ Separating the server-side code into the LogIngestor folder and the client-side 
 ##### Instructions:
 
 
-1. Clone the project repository:  https://github.com/itssouray/Log-Ingestor-and-Query-Interface
-
+1. Clone the project repository:  https://github.com/advaitaa-02/Log
 2. Navigate to the project directory
 
 3. Install dependencies on both folders
